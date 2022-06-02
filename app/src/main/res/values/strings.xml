@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TVMaze shows</string>
+    <string name="ended">Ended</string>
+    <string name="alias_not_found">No AKA\'s found!</string>
+</resources>
